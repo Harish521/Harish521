@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harish521
 - 👀 I’m interested in solving data science problems.
-- 🌱 I’m currently learning MLOps, Deep Learning and NLP.
+- 🌱 I’m currently working on MLOps, Deep Learning, NLP and Time Series Forecasting.
 - 💞️ I’m looking to collaborate on any interesting Data Science problems.
 - 📫 You can reach me on harish.pasupuleti8@gmail.com
 
